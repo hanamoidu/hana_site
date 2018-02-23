@@ -1,7 +1,7 @@
-baseurl = "/"
+baseurl = "hanamoidu/"
 languageCode = "en-us"
 title = "A Hugo website"
-theme = "hugo-lithium-theme"
+theme = "hugo-minimo-theme"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
